@@ -1,0 +1,5 @@
+.DS_Store
+accounts/*
+!accounts/example.yaml
+*.zip
+_过程/
