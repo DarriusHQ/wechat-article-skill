@@ -13,8 +13,9 @@ repository: https://github.com/DarriusHQ/wechat-article-skill
 > - 仓库：https://github.com/DarriusHQ/wechat-article-skill（欢迎 Issue / PR）
 > - `accounts/` 下除 `example.yaml` 外的真实账号档案**不入库**，属各团队私有资产
 >
-> 版本：v0.2.0（2026-10-09）
+> 版本：v0.2.1（2026-11-16）
 > 变更记录：
+> - v0.2.1 严谨清单新增 §0「点名与关联风险」：引用政府部门公开案例应保留点名并划清与我方无关；自然人与村级细节降层；产品截图地名则相反须匿名
 > - v0.2.0 开源发布：许可改为 MIT；账号档案改为虚构示例（example.yaml），真实档案不入库
 > - v0.1.0 首版。源自林草行业公众号实战复盘（作业设计智能体推文全流程），沉淀为可复用工作流。
 
@@ -134,7 +135,7 @@ repository: https://github.com/DarriusHQ/wechat-article-skill
 | 文件 | 内容 |
 |---|---|
 | `references/style-guide.md` | 文风规范：结构模板、术语翻译、口语化边界、政企语境 |
-| `references/rigor-checklist.md` | 严谨清单：素材三级分级、数字审查、政策标准核实 |
+| `references/rigor-checklist.md` | 严谨清单：点名与关联风险、素材三级分级、数字审查、政策标准核实 |
 | `references/humanize-checklist.md` | 内置文风检查单：AI 痕迹清单、口语化三条、评分表 |
 | `references/image-guide.md` | 配图规范：Prompt 模板、截图流程、裁剪规则 |
 | `references/install.md` | 团队成员安装说明（Windows/macOS） |
